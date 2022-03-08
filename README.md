@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanmayarora10
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in MIS Executive and Quality Analyst
 - 🌱 I’m currently learning MySQL and Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
