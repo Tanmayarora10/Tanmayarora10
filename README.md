@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanmayarora10
-- 👀 I’m interested in MIS Executive and Quality Analyst
-- 🌱 I’m currently learning MySQL and Tableau
+- 👀 I’m interested in Marketing Research Analyst and SEO Analyst
+- 🌱 I’m currently learning Marketing Strategy and Brand Marketing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
